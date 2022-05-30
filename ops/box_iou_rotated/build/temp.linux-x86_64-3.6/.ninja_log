@@ -1,0 +1,7 @@
+# ninja log v5
+0	4820	1637202255403111251	/home/yyf/PycharmProjects/iou_fit_module/box_iou_rotated/build/temp.linux-x86_64-3.6/src/box_iou_rotated_cpu.o	2be269d2602258c4
+1	13446	1637202264025167911	/home/yyf/PycharmProjects/iou_fit_module/box_iou_rotated/build/temp.linux-x86_64-3.6/src/box_iou_rotated_ext.o	7271e1a5dcfc3088
+1	28697	1637202279278128011	/home/yyf/PycharmProjects/iou_fit_module/box_iou_rotated/build/temp.linux-x86_64-3.6/src/box_iou_rotated_cuda.o	80bbdb83accf2b47
+1	27166	1637202654698642987	/home/yyf/PycharmProjects/iou_fit_module/box_iou_rotated/build/temp.linux-x86_64-3.6/src/box_iou_rotated_cuda.o	fa1041bd98c8d69b
+2	28173	1637204049496771655	/home/yyf/PycharmProjects/iou_fit_module/box_iou_rotated/build/temp.linux-x86_64-3.6/src/box_iou_rotated_cuda.o	cbdcd0927ccc4768
+1	28171	1637204107951800391	/home/yyf/PycharmProjects/iou_fit_module/box_iou_rotated/build/temp.linux-x86_64-3.6/src/box_iou_rotated_cuda.o	f17821c2591773f0
